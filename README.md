@@ -77,4 +77,5 @@ Strategic-Product-Placement-Analysis
 ## 👩‍💻 Author
 
 **Narapureddy Lokitha**
+**Mail Id: nlokitha8@gmail.com**
 
