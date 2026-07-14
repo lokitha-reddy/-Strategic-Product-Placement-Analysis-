@@ -44,7 +44,7 @@ This project uses retail transaction data to identify the effectiveness of diffe
 ![Category Sales](Screenshots/storyscene-3.png)
 
 ### 🏬 Store Location Sales Performance
-![Store Location Analysis](Screenshots/UI Integration.png)
+(Screenshots/UI Integration.png)
 
 ### 🌐 Web Integration
 ![Web Integration](Screenshots/UI integration.png)
