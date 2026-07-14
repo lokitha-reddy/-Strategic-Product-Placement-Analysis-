@@ -27,8 +27,7 @@ This project uses retail transaction data to identify the effectiveness of diffe
 
 ### 1. Dataset Preview
 
-
-<img width="1812" height="918" alt="C:\Users\HI\OneDrive\Pictures\Screenshots\Screenshot 2026-07-14 193544.png" src="https://github.com/user-attachments/assets/e55fc539-60f5-438f-8549-fd9cf5a04166" />
+![Dashboard](Screenshots/Dataset.png)
  CSV/Excel dataset
 
 
