@@ -27,25 +27,6 @@ This project uses retail transaction data to identify the effectiveness of diffe
 
 ---
 
-### Project Screenshots
-
-### 1. Dataset Preview
-
-![Dashboard](Screenshots/Dataset.png)
- CSV/Excel dataset
-
-### 🏠 Tableau Dashboard
-![Dashboard](Screenshots/dashboard.png)
-
-### 📌 Product Placement vs Sales Performance
-![Product Placement Analysis](Screenshots/storyscene-2.png)
-
-### 📦 Product Category Sales Distribution
-![Category Sales](Screenshots/storyscene-3.png)
-
-### 🏬 Store Location Sales Performance
-(Screenshots/UI Integration.png)
-
 ### 🌐 Web Integration
 ![Web Integration](Screenshots/UI integration.png)
 - Tableau dashboard embedded into HTML webpage.
