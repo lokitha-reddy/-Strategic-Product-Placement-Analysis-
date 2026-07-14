@@ -9,9 +9,13 @@ This project uses retail transaction data to identify the effectiveness of diffe
 
 ### Technologies Used
 
-* Tableau
-* Excel / CSV Dataset
-* HTML (Web Integration)
+- Tableau
+- Excel / CSV
+- HTML
+- Data Visualization
+- Data Analytics
+
+
 
 ### Key Features
 
@@ -30,6 +34,33 @@ This project uses retail transaction data to identify the effectiveness of diffe
 ![Dashboard](Screenshots/Dataset.png)
  CSV/Excel dataset
 
+### 🏠 Tableau Dashboard
+![Dashboard](Screenshots/dashboard.png)
+
+### 📌 Product Placement vs Sales Performance
+![Product Placement Analysis](Screenshots/storyscene-2.png)
+
+### 📦 Product Category Sales Distribution
+![Category Sales](Screenshots/storyscene-3.png)
+
+### 🏬 Store Location Sales Performance
+![Store Location Analysis](Screenshots/storyscene-4.png)
+
+### 🌐 Web Integration
+![Web Integration](Screenshots/UIintegration.png)
+- Tableau dashboard embedded into HTML webpage.
+- Provides easy access to interactive analytics.
+### Integration Link: http://127.0.0.1:5500/Strategic%20Product%20Placement%20Analysis.html
+---
+
+## 📈 Dashboard Features
+
+- Interactive Tableau Dashboard
+- Sales performance analysis
+- Product placement analysis
+- Category-wise sales insights
+- Store location comparison
+- Data filters for better analysis
 
 
 ### Project Structure
@@ -44,4 +75,25 @@ Strategic-Product-Placement-Analysis
 └── README.md
 ```
 
+
+## 🔍 Key Insights
+
+- Identified high-performing product placements.
+- Analyzed customer purchase patterns.
+- Compared category-wise sales performance.
+- Evaluated store location performance.
+
+---
+
+## 🚀 Future Scope
+
+- Real-time sales data integration.
+- Sales prediction using Machine Learning.
+- Advanced customer segmentation.
+
+---
+
+## 👩‍💻 Author
+
+**Narapureddy Lokitha**
 
