@@ -47,7 +47,7 @@ This project uses retail transaction data to identify the effectiveness of diffe
 ![Store Location Analysis](Screenshots/storyscene-4.png)
 
 ### 🌐 Web Integration
-![Web Integration](Screenshots/UIintegration.png)
+![Web Integration](Screenshots/UI integration.png)
 - Tableau dashboard embedded into HTML webpage.
 - Provides easy access to interactive analytics.
 ### Integration Link: http://127.0.0.1:5500/Strategic%20Product%20Placement%20Analysis.html
