@@ -28,9 +28,10 @@ This project uses retail transaction data to identify the effectiveness of diffe
 ---
 
 ### 🌐 Web Integration
-"C:\Users\HI\OneDrive\Pictures\Screenshots\New folder\UI Integration.png"
+
 - Tableau dashboard embedded into HTML webpage.
 - Provides easy access to interactive analytics.
+
 ### Integration Link: http://127.0.0.1:5500/Strategic%20Product%20Placement%20Analysis.html
 ---
 
@@ -55,7 +56,7 @@ Strategic-Product-Placement-Analysis
 ├── Web Integration
 └── README.md
 ```
-
+---
 
 ## 🔍 Key Insights
 
